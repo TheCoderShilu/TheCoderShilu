@@ -1,4 +1,4 @@
-<img src="C:\Users\shilu\Downloads\png_20230804_235934_0000.png" alt="my banner" title="Optional title">
+<img width="200" alt="200" src="C:\Users\shilu\Downloads\png_20230804_235934_0000.png" alt="my banner" title="Optional title">
 <h1 align="center">Hi 👋, I'm SHILU PRADHAN</h1>
 <h3 align="center">A passionate Data Scientist From India</h3>
 
